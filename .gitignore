@@ -1,0 +1,4 @@
+sent.csv
+composer.lock
+vendor/
+.idea/
